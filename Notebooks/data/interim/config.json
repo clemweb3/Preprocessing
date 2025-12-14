@@ -1,0 +1,21 @@
+{
+  "BASE_PATH": "G:\\.shortcut-targets-by-id\\1VctTphaltRx4xcPxmTJlRTrxLalyuEt8\\Labor Force Survey",
+  "DATA_DIR": "data",
+  "INTERIM_DIR": "data\\interim",
+  "PROCESSED_DIR": "data\\processed",
+  "LOG_DIR": "logs",
+  "MONTH_ORDER": {
+    "January": 1,
+    "February": 2,
+    "March": 3,
+    "April": 4,
+    "May": 5,
+    "June": 6,
+    "July": 7,
+    "August": 8,
+    "September": 9,
+    "October": 10,
+    "November": 11,
+    "December": 12
+  }
+}
