@@ -1,0 +1,492 @@
+{
+  "2018": {
+    "April": [
+      {
+        "filename": "APRIL_2018.CSV",
+        "filetype": "survey",
+        "file_year": "2018"
+      },
+      {
+        "filename": "APRIL_2018_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2018"
+      }
+    ],
+    "July": [
+      {
+        "filename": "JULY_2018.CSV",
+        "filetype": "survey",
+        "file_year": "2018"
+      },
+      {
+        "filename": "JULY_2018_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2018"
+      }
+    ],
+    "January": [
+      {
+        "filename": "JANUARY_2018.CSV",
+        "filetype": "survey",
+        "file_year": "2018"
+      },
+      {
+        "filename": "JANUARY_2018_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2018"
+      }
+    ],
+    "October": [
+      {
+        "filename": "OCTOBER_2018.CSV",
+        "filetype": "survey",
+        "file_year": "2018"
+      },
+      {
+        "filename": "OCTOBER_2018_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2018"
+      }
+    ]
+  },
+  "2019": {
+    "April": [
+      {
+        "filename": "APRIL_2019_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2019"
+      },
+      {
+        "filename": "APRIL_2019.CSV",
+        "filetype": "survey",
+        "file_year": "2019"
+      }
+    ],
+    "July": [
+      {
+        "filename": "JULY_2019_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2019"
+      },
+      {
+        "filename": "JULY_2019.CSV",
+        "filetype": "survey",
+        "file_year": "2019"
+      }
+    ],
+    "October": [
+      {
+        "filename": "OCTOBER_2019_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2019"
+      },
+      {
+        "filename": "OCTOBER_2019.CSV",
+        "filetype": "survey",
+        "file_year": "2019"
+      }
+    ],
+    "January": [
+      {
+        "filename": "JANUARY_2019.CSV",
+        "filetype": "survey",
+        "file_year": "2019"
+      },
+      {
+        "filename": "JANUARY_2019_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2019"
+      }
+    ]
+  },
+  "2022": {
+    "July": [
+      {
+        "filename": "JULY_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "JULY_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "June": [
+      {
+        "filename": "JUNE_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "JUNE_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "April": [
+      {
+        "filename": "APRIL_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      },
+      {
+        "filename": "APRIL_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      }
+    ],
+    "August": [
+      {
+        "filename": "AUGUST_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      },
+      {
+        "filename": "AUGUST_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      }
+    ],
+    "December": [
+      {
+        "filename": "DECEMBER_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "DECEMBER_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "February": [
+      {
+        "filename": "FEBRUARY_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "FEBRUARY_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "January": [
+      {
+        "filename": "JANUARY_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "JANUARY_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "March": [
+      {
+        "filename": "MARCH_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "MARCH_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "May": [
+      {
+        "filename": "MAY_2022.csv",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "MAY_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "November": [
+      {
+        "filename": "NOVEMBER_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "NOVEMBER_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "October": [
+      {
+        "filename": "OCTOBER_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "OCTOBER_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ],
+    "September": [
+      {
+        "filename": "SEPTEMBER_2022.CSV",
+        "filetype": "survey",
+        "file_year": "2022"
+      },
+      {
+        "filename": "SEPTEMBER_2022_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2022"
+      }
+    ]
+  },
+  "2023": {
+    "April": [
+      {
+        "filename": "APRIL_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "APRIL_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "August": [
+      {
+        "filename": "AUGUST_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "AUGUST_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "December": [
+      {
+        "filename": "DECEMBER_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "DECEMBER_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "February": [
+      {
+        "filename": "FEBRUARY_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "FEBRUARY_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "January": [
+      {
+        "filename": "JANUARY_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "JANUARY_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "July": [
+      {
+        "filename": "JULY_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "JULY_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "June": [
+      {
+        "filename": "JUNE_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "JUNE_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "March": [
+      {
+        "filename": "MARCH_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "MARCH_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "November": [
+      {
+        "filename": "NOVEMBER_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "NOVEMBER_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "October": [
+      {
+        "filename": "OCTOBER_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "OCTOBER_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "September": [
+      {
+        "filename": "SEPTEMBER_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "SEPTEMBER_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ],
+    "May": [
+      {
+        "filename": "MAY_2023.CSV",
+        "filetype": "survey",
+        "file_year": "2023"
+      },
+      {
+        "filename": "MAY_2023_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2023"
+      }
+    ]
+  },
+  "2024": {
+    "February": [
+      {
+        "filename": "FEBRUARY_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "FEBRUARY_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "April": [
+      {
+        "filename": "APRIL_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "APRIL_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "January": [
+      {
+        "filename": "JANUARY_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "JANUARY_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "August": [
+      {
+        "filename": "AUGUST_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "AUGUST_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "July": [
+      {
+        "filename": "JULY_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "JULY_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "March": [
+      {
+        "filename": "MARCH_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "MARCH_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "May": [
+      {
+        "filename": "MAY_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "MAY_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ],
+    "June": [
+      {
+        "filename": "JUNE_2024.CSV",
+        "filetype": "survey",
+        "file_year": "2024"
+      },
+      {
+        "filename": "JUNE_2024_METADATA.xlsx",
+        "filetype": "metadata",
+        "file_year": "2024"
+      }
+    ]
+  }
+}
