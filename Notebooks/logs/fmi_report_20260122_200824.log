@@ -1,0 +1,47 @@
+STARTING FMI REPORT
+Source: G:\My Drive\Labor Force Survey\NEW Renamed Fully Decoded Surveys
+Dest:   G:\My Drive\Labor Force Survey\NEW FMI Reports
+===============================================
+
+[OK] APRIL_2018.CSV → 50 variables
+[OK] JULY_2018.CSV → 51 variables
+[OK] OCTOBER_2018.CSV → 51 variables
+[OK] JANUARY_2018.CSV → 50 variables
+[OK] APRIL_2019.CSV → 49 variables
+[OK] OCTOBER_2019.CSV → 49 variables
+[OK] JANUARY_2019.CSV → 49 variables
+[OK] JULY_2019.CSV → 49 variables
+[OK] JUNE_2022.csv → 42 variables
+[OK] FEBRUARY_2022.csv → 41 variables
+[OK] AUGUST_2022.CSV → 42 variables
+[OK] JULY_2022.CSV → 52 variables
+[OK] DECEMBER_2022.CSV → 42 variables
+[OK] MARCH_2022.csv → 41 variables
+[OK] NOVEMBER_2022.CSV → 42 variables
+[OK] MAY_2022.csv → 42 variables
+[OK] SEPTEMBER_2022.CSV → 42 variables
+[OK] APRIL_2022.csv → 52 variables
+[OK] OCTOBER_2022.CSV → 52 variables
+[OK] JANUARY_2022.csv → 52 variables
+[OK] DECEMBER_2023.CSV → 41 variables
+[OK] FEBRUARY_2023.CSV → 42 variables
+[OK] AUGUST_2023.CSV → 41 variables
+[OK] JUNE_2023.CSV → 42 variables
+[OK] MARCH_2023.CSV → 42 variables
+[OK] NOVEMBER_2023.CSV → 41 variables
+[OK] SEPTEMBER_2023.CSV → 41 variables
+[OK] MAY_2023.CSV → 42 variables
+[OK] APRIL_2023.CSV → 52 variables
+[OK] JANUARY_2023.CSV → 52 variables
+[OK] OCTOBER_2023.CSV → 52 variables
+[OK] JULY_2023.CSV → 52 variables
+[OK] AUGUST_2024.CSV → 40 variables
+[OK] FEBRUARY_2024.CSV → 41 variables
+[OK] MARCH_2024.CSV → 41 variables
+[OK] MAY_2024.CSV → 40 variables
+[OK] JUNE_2024.CSV → 40 variables
+[OK] APRIL_2024.CSV → 51 variables
+[OK] JULY_2024.CSV → 51 variables
+[OK] JANUARY_2024.CSV → 52 variables
+
+COMPLETED. Success: 40 | Errors: 0
